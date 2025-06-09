@@ -4,7 +4,7 @@
     <title>MTA App</title>
 </head>
 <body>
-    <h2>Welcome to MTA App</h2>
+    <h2>Welcome to MTA App!</h2>
 
     <form action="result.jsp" method="post">
         <label for="name">Enter your name:</label>
